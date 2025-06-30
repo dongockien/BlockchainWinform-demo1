@@ -1,0 +1,10 @@
+C:\Users\Acer\Downloads\BlockchainWinForms\bin\Debug\BlockchainWinForms.exe.config
+C:\Users\Acer\Downloads\BlockchainWinForms\bin\Debug\BlockchainWinForms.exe
+C:\Users\Acer\Downloads\BlockchainWinForms\bin\Debug\BlockchainWinForms.pdb
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.Properties.Resources.resources
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.exe
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.pdb
+C:\Users\Acer\Downloads\BlockchainWinForms\obj\Debug\BlockchainWinForms.Form1.resources
